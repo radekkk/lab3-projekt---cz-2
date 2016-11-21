@@ -1,0 +1,116 @@
+.logo
+{
+	text-align:left;
+	background-color:#ff0033;
+	padding:5px;
+	padding-left:10px;
+	font-size:20px;
+	font-weight:bold;
+	color:#fbfbfb;
+	border-bottom: 2px dotted white;
+	
+}
+.temat
+{
+text-align:center;
+font-size:26px;
+background-color:#ff0033;
+padding:25px;
+font-weight:bold;
+	color:#fbfbfb;
+}
+.temat q
+{
+font-size:20px;
+}
+.menu
+{
+	background-color: #FF0000;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+	font-size: 20px;
+	color: white;
+}
+.menu a
+{
+color: white; 
+}
+.menu12
+{
+text-align:center;
+}
+.menu2
+{
+	display: inline-block;
+	padding:10px;
+	font-weight:bold;
+
+	
+}
+.menu2:hover
+{
+ background-color:#ff6666;
+ font-size:23px;
+ padding:5px;
+
+	
+}
+.naglowek
+{
+
+float:left;
+width:50%;
+text-align:center;
+}
+.zdjecie
+{
+
+float:right;
+width:50%;
+text-align:center;
+}
+.mapa
+{
+margin-top:3%;
+width:100%;
+text-align:center;
+}
+.zdjeciemapa
+{
+
+float:left;
+width:30%;
+margin-top:3%;
+text-align:center;
+}
+.opis
+{
+margin-top:3%;
+float:right;
+width:70%;
+text-align:center;
+}
+.element
+{
+
+float:left;
+width:70%;
+}
+.portale
+{
+
+float:right;
+width:30%;
+text-align:center;
+margin-top:10%;
+}
+.stopka
+{
+	background-color:#ff0033;
+	padding:5px;
+	text-align: center;
+	font-size:10px;
+	font-weight:bold;
+	color:#fbfbfb;
+}

@@ -1,0 +1,136 @@
+.logo
+{
+	text-align:left;
+	background-color:#ff0033;
+	padding:5px;
+	padding-left:10px;
+	font-size:20px;
+	font-weight:bold;
+	color:#fbfbfb;
+	border-bottom: 2px dotted white;
+	
+}
+.temat
+{
+text-align:center;
+font-size:26px;
+background-color:#ff0033;
+padding:25px;
+font-weight:bold;
+	color:#fbfbfb;
+}
+.temat q
+{
+font-size:20px;
+}
+.menu
+{
+	background-color: #FF0000;
+	margin-top:10px;
+	margin-bottom:10px;
+	width:100%;
+	font-size: 20px;
+	color: white;
+}
+.menu a
+{
+color: white; 
+}
+.menu12
+{
+text-align:center;
+}
+.menu2
+{
+	display: inline-block;
+	padding:10px;
+	font-weight:bold;
+
+	
+}
+.menu2:hover
+{
+ background-color:#ff6666;
+ font-size:23px;
+ padding:5px;
+
+	
+}
+
+
+.naglowek
+{
+font-size:22px;
+float:left;
+width:50%;
+}
+.zdjecie
+{
+float:left;
+width:50%;
+
+}
+.zdjecie img
+{
+width:100%;
+
+}
+
+    .google-maps {
+        position: relative;
+        padding-bottom: 75%; // Tutaj regulujemy wysokość
+        height: 0;
+        overflow: hidden;
+    }
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 40% !important;
+    }
+.zdjeciemapa
+{
+float:left;
+width:60%;
+}
+.zdjecieiopis
+{
+	padding:5px;
+}
+.zdjeciemapa img
+{
+background-color:#ff00ff;
+float:left;
+width:100%;
+}
+.opis
+{
+float:left;
+width:30%;
+font-size:20px;
+padding:20px;
+text-align:center;
+}
+.element
+{
+float:left;
+width:70%;
+padding:10px;
+font-size:18px;
+}
+.portale
+{
+float:right;
+width:20%;
+padding:20px;
+}
+.stopka
+{
+	background-color:#ff0033;
+	padding:5px;
+	text-align: center;
+	font-size:10px;
+	font-weight:bold;
+	color:#fbfbfb;
+}

@@ -1,1 +1,1 @@
-# lab3-projekt---cz-2
+# lab3-projekt---cz-1
