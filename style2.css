@@ -78,17 +78,14 @@ width:100%;
 
     .google-maps {
         position: relative;
-        padding-bottom: 75%; // Tutaj regulujemy wysokość
-        height: 0;
         overflow: hidden;
     }
     .google-maps iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
+		margin: 0 auto;
         width: 100% !important;
         height: 40% !important;
     }
+
 .zdjeciemapa
 {
 float:left;
